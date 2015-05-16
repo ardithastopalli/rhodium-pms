@@ -1,0 +1,35 @@
+#rhodium-navbar {
+	color: orange;
+	font-size: 20px;
+}
+
+#pms-navbar {
+	font-size: 30px;
+	border-style: solid;
+    border-bottom: thick orange;
+}
+
+#footer {
+	background-color: black;
+
+}
+
+#footer-info {
+	color: grey;
+	
+}
+
+a:visited, a:link, a:active
+{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+	text-decoration: none;
+    color: orange;
+}
+
+.image-header {
+	color: orange;
+}
